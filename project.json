@@ -1,0 +1,10 @@
+{
+    "project": {
+        "full_name": "ModularSynth",
+        "slug": "modular-synth",
+        "short_description": "Build your own",
+        "lang": "fr",
+        "license": "CC BY-SA",
+        "about": "Ce dossier va servir pour ceux qui veulent se construire un synthé modulaire."
+    }
+}
