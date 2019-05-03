@@ -5,6 +5,21 @@
         "short_description": "Build your own",
         "lang": "fr",
         "license": "CC BY-SA",
-        "about": "Ce dossier va servir pour ceux qui veulent se construire un synthé modulaire."
+        "about": "Ce dossier va servir pour ceux qui veulent se construire un synthé modulaire.",
+        "featured_images": [
+            {
+                "image": {
+                    "url": "https://f4.bcbits.com/img/0015999516_10.jpg",
+                    "caption": "A modular"
+                }
+            }
+        ],
+        "steps": [
+            {
+                "title": "Acheter un rack",
+                "duration": 300,
+                "content": ""
+            }
+        ]
     }
 }
