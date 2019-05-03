@@ -19,6 +19,19 @@
                 "title": "Acheter un rack",
                 "duration": 300,
                 "content": ""
+            },
+            {
+                "title": "Acheter une alimenation",
+                "duration": 300,
+                "content": "",
+                "inputs": [
+                    {
+                        "file": {
+                            "name": "",
+                            "url": "/test2/saturne"
+                        }
+                    }
+                ]
             }
         ]
     }
