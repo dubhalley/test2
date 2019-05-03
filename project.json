@@ -27,8 +27,8 @@
                 "inputs": [
                     {
                         "file": {
-                            "name": "",
-                            "url": "test2/saturne.jpg"
+                            "name": "alim",
+                            "url": "/test2/saturne.jpg"
                         }
                     }
                 ]
